@@ -1,4 +1,4 @@
-Temp
+Multi-threading Java
 ====
 
-just temp stuff to test
+A brief bit of code showing off multi-threading java.
